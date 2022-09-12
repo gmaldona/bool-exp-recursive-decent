@@ -3,6 +3,7 @@ import scala.language.postfixOps
 import scala.util.matching.Regex
 
 /**
+
  * Grammar:
  *
  *  S  => Assign $ | Query $
